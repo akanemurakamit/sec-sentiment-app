@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+accelerate
+beautifulsoup4
+requests
+pypdf
